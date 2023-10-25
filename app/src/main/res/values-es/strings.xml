@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avanzado2</string>
+
+    <string name="style">Estilos y temas</string>
+    <string name="pantalla">Pantalla táctil</string>
+    <string name="hilos">Hilos de ejecución</string>
+    <string name="gestos">Gestos ejercicio 2</string>
+
+    <string name="pantallaExercise">Pantalla táctil ejercicio 1</string>
+</resources>

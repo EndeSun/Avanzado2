@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Avanzado2</string>
+
+    <string name="style">Styles and themes</string>
+    <string name="pantalla">Touch screen</string>
+    <string name="hilos">Execution threads</string>
+    <string name="gestos">gestures exercise 2</string>
+
+    <string name="pantallaExercise">Touch screen exercise 1</string>
+</resources>
